@@ -1,0 +1,4 @@
+We take the activation function as the sigmoid and the loss function as the log loss i.e we solve a logistic regression problem.It converts our plane into a gradient sort
+of format where the gradient is of probability where probability on the line is 0.5 and as we go in gthe green region the probability of the truth increases and wise versa
+in the false region.
+
