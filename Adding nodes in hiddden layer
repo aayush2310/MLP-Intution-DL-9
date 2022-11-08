@@ -1,0 +1,4 @@
+Neural network architecture means how the perceptrons are connected.
+Wec can bring changes in our architecture based on our requirement.
+We can increase the number of perceptrons in our hidden layer.
+So if our data is too much non linear then,we can capture that additional non-linearity.
