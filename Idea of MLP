@@ -1,0 +1,8 @@
+We will be finding the linear combination of two perceptrons.
+
+We will now add some flexibility to it.We want a final decision boundary such that the impact of the decision boundary-1 on it is more than that of the decision boundary-2
+We will do weighted addition to acheive this.
+Moreover we can add bias to our system say 3.
+finally 
+z=b+w1.P1+w2.P2
+Output from perceptron-1 and 2 act as input to perceptron-3,so it is a multilayer perceptron.
